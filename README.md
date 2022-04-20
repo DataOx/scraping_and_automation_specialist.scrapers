@@ -25,7 +25,7 @@
 ```
 >###### Populate with example from .env-example file
 ---
-### 2. Add a credential.json file for google authorization inside the static directory if it's not there
+### 2. Add a credentials.json file for google authorization inside the static directory if it's not there
 [Google Sheets API docs](https://developers.google.com/sheets/api/reference/rest)
 --
 [Create credentials file](https://developers.google.com/workspace/guides/create-credentials)
