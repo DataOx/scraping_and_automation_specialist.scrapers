@@ -9,6 +9,10 @@ load_dotenv()
 
 BASE_DIR = Path(__file__).resolve().parent
 STATIC_PATH = os.path.join(BASE_DIR, 'static')
+
+if not os.path.exists(STATIC_PATH):
+    os.mkdir(STATIC_PATH)
+
 INTERMEDIATE_FILE = os.path.join(STATIC_PATH, 'intermediate_file.json')
 # retrying on scraping error or if scraped data is loss
 STYLEINFORM_RETRY_TIMES = 3
