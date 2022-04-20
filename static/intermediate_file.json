@@ -1,0 +1,115 @@
+{
+    "products": [
+        {
+            "product_sku": "ALF-002",
+            "inventory_qty": "139"
+        },
+        {
+            "product_sku": "ALF-003",
+            "inventory_qty": "220"
+        },
+        {
+            "product_sku": "AMH-001",
+            "inventory_qty": "186"
+        },
+        {
+            "product_sku": "AMH-002",
+            "inventory_qty": "164"
+        },
+        {
+            "product_sku": "AMH-003",
+            "inventory_qty": "161"
+        },
+        {
+            "product_sku": "ANT-001",
+            "inventory_qty": "51"
+        },
+        {
+            "product_sku": "ANT-002",
+            "inventory_qty": "82"
+        },
+        {
+            "product_sku": "ANT-003",
+            "inventory_qty": "53"
+        },
+        {
+            "product_sku": "ANT-004",
+            "inventory_qty": "98"
+        },
+        {
+            "product_sku": "ANT-005",
+            "inventory_qty": "90"
+        },
+        {
+            "product_sku": "ANT-006",
+            "inventory_qty": "72"
+        },
+        {
+            "product_sku": "ANT-007",
+            "inventory_qty": "76"
+        },
+        {
+            "product_sku": "ANT-008",
+            "inventory_qty": "56"
+        },
+        {
+            "product_sku": "ANT-009",
+            "inventory_qty": "98"
+        },
+        {
+            "product_sku": "ANT-010",
+            "inventory_qty": "83"
+        },
+        {
+            "product_sku": "ANT-011",
+            "inventory_qty": "84"
+        },
+        {
+            "product_sku": "ANT-012",
+            "inventory_qty": "59"
+        },
+        {
+            "product_sku": "ANT-013",
+            "inventory_qty": "0",
+            "inventory_text": " Stock arrival TBA. "
+        },
+        {
+            "product_sku": "ANT-014",
+            "inventory_qty": "23"
+        },
+        {
+            "product_sku": "ANT-015",
+            "inventory_qty": "364"
+        },
+        {
+            "product_sku": "ANT-016",
+            "inventory_qty": "0",
+            "inventory_text": " Stock arrival TBA. "
+        },
+        {
+            "product_sku": "ANT-017",
+            "inventory_qty": "118"
+        },
+        {
+            "product_sku": "ANT-018",
+            "inventory_qty": "72"
+        },
+        {
+            "product_sku": "ANT-019",
+            "inventory_qty": "253"
+        },
+        {
+            "product_sku": "ANT-024",
+            "inventory_qty": "57"
+        },
+        {
+            "product_sku": "ANT-025",
+            "inventory_qty": "295"
+        },
+        {
+            "product_sku": "ANT-026",
+            "inventory_qty": "72"
+        }
+    ],
+    "products_count": 27
+}
