@@ -23,18 +23,22 @@ class TestStyleInForm(unittest.TestCase):
         cookies = self.scraper.login()
         self.assertIsInstance(cookies, dict, msg='method login must returned dict')
         self.assertNotEqual(len(cookies.keys()), 0, msg='request to login not returned cookies dict')
+        self.assertIsNotNone(self.scraper.session.cookies, msg='cookies of session after login cannot be None')
 
     def test_parse_all_products(self):
         self.scraper.parse_all_products(5)
         data = read_data()
-        self.assertEqual(data['products_count'], 0, msg='wrong qty in file')
-        self.assertIsNone(data['products'], msg='not added new data in file')
+        self.assertNotEqual(data['products_count'], 0, msg='wrong qty in file')
+        self.assertIsNotNone(data['products'], msg='not added new data in file')
 
         for p_data in data['products']:
             self.assertIsInstance(p_data, dict)
 
             self.assertIn('product_sku', p_data.keys())
 
-            if p_data.get('inventory_qty') and p_data['inventory_qty'] == 0:
-                self.assertIn('inventory_text', p_data.keys())
+            # if p_data.get('inventory_qty') and p_data['inventory_qty'] == 0:
+            #     self.assertIn('inventory_text', p_data.keys())
 
+
+if __name__ == '__main__':
+    unittest.main()
