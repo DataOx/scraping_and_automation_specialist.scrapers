@@ -109,7 +109,406 @@
         {
             "product_sku": "ANT-026",
             "inventory_qty": "72"
+        },
+        {
+            "product_sku": "ANT-027",
+            "inventory_qty": "88"
+        },
+        {
+            "product_sku": "ANT-028",
+            "inventory_qty": "52"
+        },
+        {
+            "product_sku": "ANT-029",
+            "inventory_qty": "86"
+        },
+        {
+            "product_sku": "ANT-030",
+            "inventory_qty": "83"
+        },
+        {
+            "product_sku": "ANT-031",
+            "inventory_qty": "88"
+        },
+        {
+            "product_sku": "ANT-032",
+            "inventory_qty": "83"
+        },
+        {
+            "product_sku": "ANT-033",
+            "inventory_qty": "85"
+        },
+        {
+            "product_sku": "BAR-002",
+            "inventory_qty": "23"
+        },
+        {
+            "product_sku": "ANT-034",
+            "inventory_qty": "33"
+        },
+        {
+            "product_sku": "BAR-003",
+            "inventory_qty": "47"
+        },
+        {
+            "product_sku": "BAR-004",
+            "inventory_qty": "79"
+        },
+        {
+            "product_sku": "BAR-005",
+            "inventory_qty": "45"
+        },
+        {
+            "product_sku": "BAR-006",
+            "inventory_text": "New product. Stock arriving April 27, 2022."
+        },
+        {
+            "product_sku": "BAR-007",
+            "inventory_text": "New product. Stock arriving April 27, 2022."
+        },
+        {
+            "product_sku": "BAR-008",
+            "inventory_qty": "147"
+        },
+        {
+            "product_sku": "BOH-002",
+            "inventory_qty": "0",
+            "inventory_text": " Stock arrival TBA. "
+        },
+        {
+            "product_sku": "BOH-003",
+            "inventory_qty": "0",
+            "inventory_text": " Stock arrival TBA. "
+        },
+        {
+            "product_sku": "BOH-005",
+            "inventory_qty": "212",
+            "inventory_text": "  Container 1: April 28, 2022  Container 2: May 2, 2022  Container 3: May 13, 2022 "
+        },
+        {
+            "product_sku": "BOH-004",
+            "inventory_qty": "0",
+            "inventory_text": " Stock arrival TBA. "
+        },
+        {
+            "product_sku": "BOH-007",
+            "inventory_qty": "0",
+            "inventory_text": " Stock arriving:  Container 1: April 28, 2022  Container 2: May 13, 2022"
+        },
+        {
+            "product_sku": "BOH-010",
+            "inventory_qty": "303",
+            "inventory_text": "  Container 1: May 2, 2022  Container 2: May 13, 2022. "
+        },
+        {
+            "product_sku": "BOH-012",
+            "inventory_qty": "76"
+        },
+        {
+            "product_sku": "BOH-014",
+            "inventory_qty": "0",
+            "inventory_text": " Stock arriving April 24, 2022. "
+        },
+        {
+            "product_sku": "BOH-027",
+            "inventory_qty": "0",
+            "inventory_text": " Stock arriving May 13, 2022"
+        },
+        {
+            "product_sku": "BOH-026",
+            "inventory_qty": "208",
+            "inventory_text": "  Container 1: May 2, 2022  Container 2: May 13, 2022"
+        },
+        {
+            "product_sku": "BOH-029",
+            "inventory_qty": "0",
+            "inventory_text": " Stock arriving:   Container 1: April 28, 2022  Container 2: May 2, 2022  Container 3: May 13, 2022"
+        },
+        {
+            "product_sku": "BOH-028",
+            "inventory_qty": "59",
+            "inventory_text": "  Container 1: May 2, 2022  Container 2: May 13, 2022"
+        },
+        {
+            "product_sku": "BOH-031",
+            "inventory_qty": "47",
+            "inventory_text": "  Container 1: April 21, 2022  Container 2: May 13, 2022"
+        },
+        {
+            "product_sku": "BOH-030",
+            "inventory_qty": "169"
+        },
+        {
+            "product_sku": "BOH-033",
+            "inventory_qty": "0",
+            "inventory_text": " Stock arriving:  Container 1: April 28, 2022  Container 2: May 2, 2022  Container 3: May 13, 2022"
+        },
+        {
+            "product_sku": "BOH-035",
+            "inventory_qty": "72"
+        },
+        {
+            "product_sku": "BOH-034",
+            "inventory_qty": "12"
+        },
+        {
+            "product_sku": "BOH-036",
+            "inventory_qty": "151"
+        },
+        {
+            "product_sku": "BOH-037",
+            "inventory_qty": "24"
+        },
+        {
+            "product_sku": "BOH-041",
+            "inventory_qty": "94",
+            "inventory_text": "  Container 1: May 2, 2022  Container 2: May 13, 2022"
+        },
+        {
+            "product_sku": "BOH-042",
+            "inventory_qty": "68"
+        },
+        {
+            "product_sku": "BOH-043",
+            "inventory_qty": "26"
+        },
+        {
+            "product_sku": "BOH-044",
+            "inventory_qty": "101"
+        },
+        {
+            "product_sku": "BOH-045",
+            "inventory_qty": "241"
+        },
+        {
+            "product_sku": "BOH-046",
+            "inventory_qty": "251"
+        },
+        {
+            "product_sku": "BOH-047",
+            "inventory_qty": "505"
+        },
+        {
+            "product_sku": "BOH-048",
+            "inventory_qty": "521"
+        },
+        {
+            "product_sku": "BOH-049",
+            "inventory_qty": "183",
+            "inventory_text": "  Container 1: April 28, 2022  Container 2: May 13, 2022"
+        },
+        {
+            "product_sku": "BOH-050",
+            "inventory_qty": "53",
+            "inventory_text": " Container 1: April 21, 2022  Container 2: May 13, 2022"
+        },
+        {
+            "product_sku": "BOH-051",
+            "inventory_qty": "117",
+            "inventory_text": "  Container 1: April 28, 2022  Container 2: May 13, 2022"
+        },
+        {
+            "product_sku": "BOH-052",
+            "inventory_qty": "93",
+            "inventory_text": "  Container 1: April 28, 2022  Container 2: May 13, 2022"
+        },
+        {
+            "product_sku": "BOH-053",
+            "inventory_qty": "145"
+        },
+        {
+            "product_sku": "BOH-054",
+            "inventory_qty": "0",
+            "inventory_text": "  Container 1: April 28, 2022  Container 2: May 13, 2022 "
+        },
+        {
+            "product_sku": "BOH-055",
+            "inventory_qty": "129"
+        },
+        {
+            "product_sku": "BOH-056",
+            "inventory_qty": "0",
+            "inventory_text": " Stock arrival TBA. "
+        },
+        {
+            "product_sku": "BOH-057",
+            "inventory_qty": "98"
+        },
+        {
+            "product_sku": "BOH-058",
+            "inventory_qty": "67",
+            "inventory_text": "  Container 1: April 21, 2022  Container 2: May 13, 2022"
+        },
+        {
+            "product_sku": "BOH-060",
+            "inventory_qty": "104"
+        },
+        {
+            "product_sku": "BOH-062",
+            "inventory_qty": "42"
+        },
+        {
+            "product_sku": "BOH-070",
+            "inventory_qty": "103"
+        },
+        {
+            "product_sku": "BOH-069",
+            "inventory_qty": "122"
+        },
+        {
+            "product_sku": "BRE-005",
+            "inventory_qty": "62"
+        },
+        {
+            "product_sku": "BRE-006",
+            "inventory_qty": "62"
+        },
+        {
+            "product_sku": "BRE-007",
+            "inventory_qty": "62"
+        },
+        {
+            "product_sku": "BRE-008",
+            "inventory_qty": "59"
+        },
+        {
+            "product_sku": "BRE-009",
+            "inventory_qty": "24"
+        },
+        {
+            "product_sku": "BRE-010",
+            "inventory_qty": "124"
+        },
+        {
+            "product_sku": "BRE-011",
+            "inventory_qty": "112"
+        },
+        {
+            "product_sku": "BRE-012",
+            "inventory_qty": "76"
+        },
+        {
+            "product_sku": "BRE-013",
+            "inventory_qty": "118"
+        },
+        {
+            "product_sku": "BRE-014",
+            "inventory_qty": "18"
+        },
+        {
+            "product_sku": "BRE-015",
+            "inventory_qty": "0",
+            "inventory_text": " Stock arriving May 24, 2022. "
+        },
+        {
+            "product_sku": "BRU-001",
+            "inventory_qty": "0",
+            "inventory_text": " Stock arriving June 21, 2022."
+        },
+        {
+            "product_sku": "CAI-001",
+            "inventory_qty": "0",
+            "inventory_text": " Stock arriving May 25, 2022."
+        },
+        {
+            "product_sku": "CAI-004",
+            "inventory_qty": "166"
+        },
+        {
+            "product_sku": "CAI-003",
+            "inventory_qty": "82"
+        },
+        {
+            "product_sku": "CAI-005",
+            "inventory_qty": "46"
+        },
+        {
+            "product_sku": "CAI-006",
+            "inventory_qty": "63"
+        },
+        {
+            "product_sku": "CAL-001",
+            "inventory_qty": "160"
+        },
+        {
+            "product_sku": "CAL-002",
+            "inventory_qty": "91"
+        },
+        {
+            "product_sku": "CAL-003",
+            "inventory_qty": "147"
+        },
+        {
+            "product_sku": "CAL-004",
+            "inventory_qty": "0",
+            "inventory_text": " Stock arriving June 13, 2022. "
+        },
+        {
+            "product_sku": "CAL-006",
+            "inventory_qty": "42"
+        },
+        {
+            "product_sku": "CAL-007",
+            "inventory_qty": "17"
+        },
+        {
+            "product_sku": "CAL-008",
+            "inventory_qty": "99"
+        },
+        {
+            "product_sku": "CAL-010",
+            "inventory_qty": "33"
+        },
+        {
+            "product_sku": "CAL-013",
+            "inventory_qty": "223"
+        },
+        {
+            "product_sku": "CAL-012",
+            "inventory_qty": "0",
+            "inventory_text": " Stock arrival TBA. "
+        },
+        {
+            "product_sku": "CAL-014",
+            "inventory_qty": "139"
+        },
+        {
+            "product_sku": "CAL-015",
+            "inventory_qty": "86"
+        },
+        {
+            "product_sku": "CAL-016",
+            "inventory_qty": "38"
+        },
+        {
+            "product_sku": "CAL-019",
+            "inventory_qty": "11"
+        },
+        {
+            "product_sku": "CAL-018",
+            "inventory_qty": "55"
+        },
+        {
+            "product_sku": "CAL-020",
+            "inventory_qty": "52"
+        },
+        {
+            "product_sku": "CAL-021",
+            "inventory_qty": "0",
+            "inventory_text": " Stock arriving June 13, 2022. "
+        },
+        {
+            "product_sku": "CAN-001",
+            "inventory_qty": "36"
+        },
+        {
+            "product_sku": "CAN-002",
+            "inventory_qty": "37"
+        },
+        {
+            "product_sku": "CIN-001",
+            "inventory_text": "New product. Stock arriving June 8, 2022."
         }
     ],
-    "products_count": 27
+    "products_count": 120
 }
