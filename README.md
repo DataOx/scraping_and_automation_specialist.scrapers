@@ -1,3 +1,5 @@
+Current application is the scraper that checks the availability of goods in an online store https://styleinform.com/ and gets a specific endpoint by SKU, inventory count, and inventory description.
+
 ### 1. Create .env file on base directory
 >  next to the conf.py file, create an .env file
 > :warning: **Required!**
